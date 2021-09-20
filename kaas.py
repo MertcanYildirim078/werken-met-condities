@@ -28,3 +28,4 @@ elif Kaas1 == 'nee':
             print('Blue de Rochbaron')
         elif Kaas3 == 'nee':
             print('Foume d\'Ambert')
+            
